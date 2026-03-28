@@ -106,4 +106,4 @@ Results indicate well-defined clusters with realistic overlap typical of behavio
 
 ## Author
 Nitish Bhatt  
-B.Tech Mechanical Engineering + BS Data Science (IIT Madras)
+BS Data Science and Applications (IIT Madras) + B.Tech Mechanical Engineering (GBPUAT)
